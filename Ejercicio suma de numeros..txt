@@ -1,0 +1,14 @@
+# Pregunta 1. 
+
+v = seq(1,100, by = 2)
+a = 0
+
+for(i in v) {
+  a = a + i 
+}
+
+# Otra forma de ahcerlo es.
+
+sum(v)
+
+# La 2 no pude hacerla.
